@@ -1,0 +1,30 @@
+2025-08-13T19:40:11.627Z - Extension - INFO - Logging system initialized with file: c:\Users\murli\projects\auth0-app1\.codebase2docs\output\log.txt
+2025-08-13T19:40:11.632Z - ApiKeyUtils - INFO - Production mode: using injected API key
+2025-08-13T19:40:12.088Z - ApiKeyUtils - INFO - Default API key stored in secret storage
+2025-08-13T19:40:12.090Z - Extension - INFO - Auth and analytics disabled - skipping auth and analytics initialization
+2025-08-13T19:40:12.096Z - CheckNodeVersionService - ERROR - Error getting node version with shell environment: spawn /bin/bash ENOENT
+2025-08-13T19:40:12.098Z - Extension - WARN - Node.js version check failed - some features may not work properly
+2025-08-13T19:40:18.334Z - ProgressStateManager - INFO - ProgressStateManager initialized
+2025-08-13T19:40:18.341Z - ProgressMessageManager - INFO - ProgressMessageManager initialized
+2025-08-13T19:40:18.342Z - ProgressService - INFO - ProgressService initialized with component managers
+2025-08-13T19:40:18.353Z - PromptManager - INFO - All prompt templates loaded successfully
+2025-08-13T19:40:18.597Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:18.622Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:40:18.963Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:18.982Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:40:24.415Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:24.682Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:40:25.618Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:25.696Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:40:36.743Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:36.834Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:40:38.070Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:38.170Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:40:41.363Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:40:41.393Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:41:39.481Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:41:39.546Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:41:44.247Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:41:44.273Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-13T19:41:46.418Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-13T19:41:55.146Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
