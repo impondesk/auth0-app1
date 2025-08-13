@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Auth0 Login</h1>
+        <h1>Auth0 App1 Login</h1>
         {isAuthenticated ? (
           <>
             <Profile />
