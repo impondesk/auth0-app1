@@ -7,21 +7,9 @@ const LoginButton = () => {
   console.log("LoginButton component rendered");
   console.log(process.env.REACT_APP_AUTH0_DOMAIN);
   console.log(process.env.REACT_APP_REDIRECT_URI);
-  console.log(process.env.REACT_APP_POST_LOGOUT_REDIRECT_URI);
+  //   console.log(process.env.REACT_APP_POST_LOGOUT_REDIRECT_URI);
 
-  return (
-    <button
-      onClick={() =>
-        loginWithRedirect({
-          redirect_uri: process.env.REACT_APP_REDIRECT_URI,
-          post_logout_redirect_uri:
-            process.env.REACT_APP_POST_LOGOUT_REDIRECT_URI,
-        })
-      }
-    >
-      Log In
-    </button>
-  );
+  return <button onClick={() => loginWithRedirect({})}>Log In</button>;
 };
 
 export default LoginButton;
