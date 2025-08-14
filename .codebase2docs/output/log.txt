@@ -111,3 +111,9 @@
 2025-08-14T02:56:09.516Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
 2025-08-14T02:56:09.545Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
 2025-08-14T02:56:10.311Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-14T02:56:41.761Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-14T02:56:44.932Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-14T03:00:17.801Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-14T03:00:18.874Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
+2025-08-14T03:00:22.471Z - DocumentEventHandler - INFO - Active Text Editor does not contain Zingle CSV, reset selected table
+2025-08-14T03:01:49.469Z - DocumentEventHandler - INFO - All text editors closed, reset selected table
