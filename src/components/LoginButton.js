@@ -9,7 +9,20 @@ const LoginButton = () => {
   console.log(process.env.REACT_APP_REDIRECT_URI);
   //   console.log(process.env.REACT_APP_POST_LOGOUT_REDIRECT_URI);
 
-  return <button onClick={() => loginWithRedirect({})}>Log In</button>;
+  return (
+    <button
+      onClick={() =>
+        loginWithRedirect({
+          appState: {
+            returnTo:
+              process.env.REACT_APP_REDIRECT_URI || window.location.pathname,
+          },
+        })
+      }
+    >
+      Log In
+    </button>
+  );
 };
 
 export default LoginButton;
